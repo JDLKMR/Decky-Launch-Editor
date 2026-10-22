@@ -1,0 +1,11 @@
+{
+  "name": "Launch Editor",
+  "author": "JD",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": ["utility", "emulation"],
+    "description": "Add ROM launch options (console profiles), assign launch .sh scripts, or clear launch options for any Steam or non-Steam game from one button.",
+    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/decky-plugin-template"
+  }
+}
