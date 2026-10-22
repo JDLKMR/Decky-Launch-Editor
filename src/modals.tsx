@@ -317,7 +317,7 @@ export function ProfilePickerModal({
 } & CloseProps) {
   return (
     <ModalRoot onCancel={closeModal} closeModal={closeModal}>
-      <DialogHeader>Choose console profile</DialogHeader>
+      <DialogHeader>Choose Console Profile</DialogHeader>
       <DialogBody>
         <div style={{ marginBottom: "6px" }}>
           <b>{romName}</b> for {gameName}
